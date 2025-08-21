@@ -84,13 +84,5 @@ Reordering-Assistant/
 
 ---
 
-## 🚀 Future Enhancements
-- Flask web app for one-click reordering.  
-- Mobile app integration.  
-- Cloud deployment (AWS).  
-- Hybrid recommendation models for improved accuracy.  
-
----
-
 ## 🔖 GitHub Topics (Tags)
 `machine-learning` · `recommendation-system` · `apriori` · `svd` · `ai-project` · `ecommerce` · `python`  
