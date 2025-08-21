@@ -50,6 +50,7 @@ It simplifies reordering by recommending frequently purchased items and suggesti
 - Results showed valid & strong bundling rules.
 
 ---
+
 ## 📂 Repository Structure
 Reordering-Assistant/
 │
@@ -72,6 +73,8 @@ Reordering-Assistant/
 │
 ├── requirements.txt # Required libraries
 └── README.md # Project overview
+
+
 ---
 
 ## 🛠 Tools & Technologies
