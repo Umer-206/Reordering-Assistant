@@ -6,7 +6,7 @@ It simplifies reordering by recommending frequently purchased items and suggesti
 
 - **Objective**: Enhance customer experience with quick reordering + bundling.  
 - **Scope**: AI recommendation system + (planned) web dashboard.  
-- **Developed under**: Team Next Internship Project  
+- **Developed under**: Team Next Internship Project
 
 ---
 
