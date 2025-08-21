@@ -52,6 +52,7 @@ It simplifies reordering by recommending frequently purchased items and suggesti
 ---
 
 ## 📂 Repository Structure
+
 Reordering-Assistant/
 │
 ├── data/ # CSV datasets
@@ -73,7 +74,6 @@ Reordering-Assistant/
 │
 ├── requirements.txt # Required libraries
 └── README.md # Project overview
-
 
 ---
 
