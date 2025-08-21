@@ -51,29 +51,28 @@ It simplifies reordering by recommending frequently purchased items and suggesti
 
 ---
 
-## 📂 Repository Structure
-
 Reordering-Assistant/
 │
-├── data/ # CSV datasets
-│ ├── amazon_preprocessed_first_100.csv
-│ ├── orders_clean_preprocessed.csv
+├── data/                   # CSV datasets
+│   ├── amazon_preprocessed_first_100.csv
+│   └── orders_clean_preprocessed.csv
 │
-├── notebooks/ # Main AI notebook
-│ └── Reordering-Assistant.ipynb
+├── notebooks/              # Main AI notebook
+│   └── Reordering-Assistant.ipynb
 │
-├── reports/ # PDF report + model outputs
-│ ├── Reordering Assistant Report.pdf
-│ ├── recommendations_top10.csv
-│ ├── frequent_itemsets.csv
-│ ├── association_rules.csv
-│ ├── bundles_top_pairs.csv
-│ ├── bundles_top_triplets.csv
-│ ├── part1_accuracy_report.csv
-│ └── part2_valid_rules_report.csv
+├── reports/                # PDF report + model outputs
+│   ├── Reordering Assistant Report.pdf
+│   ├── recommendations_top10.csv
+│   ├── frequent_itemsets.csv
+│   ├── association_rules.csv
+│   ├── bundles_top_pairs.csv
+│   ├── bundles_top_triplets.csv
+│   ├── part1_accuracy_report.csv
+│   └── part2_valid_rules_report.csv
 │
-├── requirements.txt # Required libraries
-└── README.md # Project overview
+├── requirements.txt        # Required Python libraries
+└── README.md               # Project overview
+
 
 ---
 
